@@ -3,7 +3,7 @@
   <li>Date Created; 30th May 2023</li>
   <li>Last Date modified: 30th May 2023</li>
   <li>Git URL: </li>
-  <li>Netlify deployment Link: </li>
+  <li>Netlify deployment Link: https://6476a2b4acbed342a1ad2480--resonant-entremet-4b5026.netlify.app/</li>
 </ul>
 
 <h1>Features:</h1>
