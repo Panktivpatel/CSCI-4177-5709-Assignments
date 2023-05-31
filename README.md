@@ -26,23 +26,23 @@
 
 <h1>Installation</h1>
 <p>
-  1. Clone the repository to your local machine:
-      git clone https://github.com/your/repository.git
-  2. Navigate to the project directory:
-      cd doctor-portal-management
-  3. Install the dependencies using npm or yarn:
-      npm install
+  1. Clone the repository to your local machine:<br/>
+      git clone https://github.com/your/repository.git<br/>
+  2. Navigate to the project directory:<br/>
+      cd doctor-portal-management<br/>
+  3. Install the dependencies using npm or yarn:<br/>
+      npm install<br/>
 </p>
 
 <h1>Deployment</h1>
 <p>
-  - First of all, I created a git rewpository for the code and then cloned it with vs code. Then, I installed react-js basic application and installed bootstrap as well.
-  - I created the front-end portion of the portal as shown in the wireframe, however it is not in the working state just basic UI was developed.
-  - Then, I deployed the website on netlify and the link has been shared above.
+  - First of all, I created a git rewpository for the code and then cloned it with vs code. Then, I installed react-js basic application and installed bootstrap as well.<br/>
+  - I created the front-end portion of the portal as shown in the wireframe, however it is not in the working state just basic UI was developed.<br/>
+  - Then, I deployed the website on netlify and the link has been shared above.<br/>
 </p>
 
 <h1>References</h1>
 <p>
-  1. React.js - https://legacy.reactjs.org/docs/getting-started.html
+  1. React.js - https://legacy.reactjs.org/docs/getting-started.html<br/>
   2. bootstrap - https://getbootstrap.com/
 </p>
