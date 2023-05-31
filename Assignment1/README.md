@@ -12,3 +12,7 @@ Initially, I created a git repository and cloned it. Then I installed <a href="h
 <br/>
 Then, I developed the webpage (it is not working with functionality) just the basic UI was developed. Thenafter, I connected netlify to my gi repository. I deployed the app on Netlify.com. Once the deployment was complete, I was able to access my webpage using the provided link.
 </p>
+
+<h1>Features</h1>
+
+<h1>Requirement</h1>
