@@ -1,5 +1,3 @@
-import React, { useEffect, useState } from 'react';
-import logo from './logo.svg';
 import './App.css';
 import './style.css';
 
@@ -9,24 +7,24 @@ function App() {
       <div class="row">
       <div class="col-md-3 col-lg-2 background-nax sidebar">
         <div class="sidebar-header">
-          <img src='doctor.jpeg' class="rounded image-doc"/>
+          <img src='doctor.jpeg' alt='doctor' class="rounded image-doc"/>
           <h3>Rhea Thomas</h3>
         </div>
         <ul class="list-unstyled components">
           <li class="active text-dark">
-            <a href="#">Home</a>
+            <button class='btn btn-primary'>Home</button>
           </li>
           <li class="text-dark">
-            <a href="#">Patient Records</a>
+            <button class='btn btn-primary'>Patient Records</button>
           </li>
           <li class="text-dark">
-            <a href="#">Appointment Schedulling</a>
+            <button class='btn btn-primary'>Appointment Schedulling</button>
           </li>
           <li class="text-dark">
-            <a href="#">Remote Consultation</a>
+            <button class='btn btn-primary'>Remote Consultation</button>
           </li>
           <li class="text-dark">
-            <a href="#">Schedule</a>
+            <button class='btn btn-primary'>Schedule</button>
           </li>
         </ul>
       </div>
@@ -35,7 +33,7 @@ function App() {
           <div class="container navbar-brand"> <b>Welcome</b>
             <ul class="navbar-nav ml-auto">
                 <li class="links">
-                <a href="#" class="btn btn-link text-white"> Community </a> <a href="#" class="btn btn-danger text-white"> logout </a></li>
+                <button class="btn btn-link text-white"> Community </button> <button class="btn btn-danger text-white"> logout </button></li>
             </ul>
           </div>
         </div>
@@ -81,7 +79,7 @@ function App() {
                   <div class="container navbar-brand text-dark"> <b>John Doe</b>
                     <ul class="navbar-nav ml-auto">
                         <li class="links">
-                        <a href="#" class="btn btn-success"> Accept </a> <a href="#" class="btn btn-danger text-white"> Reschedule </a></li>
+                        <button class="btn btn-success"> Accept </button> <button class="btn btn-danger text-white"> Reschedule </button></li>
                     </ul>
                   </div>
                 </div>
@@ -89,7 +87,7 @@ function App() {
                   <div class="container navbar-brand text-dark"> <b>Rihanna Dev</b>
                     <ul class="navbar-nav ml-auto">
                         <li class="links">
-                        <a href="#" class="btn btn-success"> Accept </a> <a href="#" class="btn btn-danger text-white"> Reschedule </a></li>
+                        <button class="btn btn-success"> Accept </button> <button class="btn btn-danger text-white"> Reschedule </button></li>
                     </ul>
                   </div>
                 </div>
@@ -97,7 +95,7 @@ function App() {
                   <div class="container navbar-brand text-dark"> <b>Kripa Swaraj</b>
                     <ul class="navbar-nav ml-auto">
                         <li class="links">
-                        <a href="#" class="btn btn-success"> Accept </a> <a href="#" class="btn btn-danger text-white"> Reschedule </a></li>
+                        <button class="btn btn-success"> Accept </button> <button class="btn btn-danger text-white"> Reschedule </button></li>
                     </ul>
                   </div>
                 </div>
@@ -106,7 +104,7 @@ function App() {
                   <div class="row">
                     <div class="col-md-6 col-md-6">
                       <h1 class="m-2">Calender</h1>
-                      <img src="calender.jpeg" class="image-cal"/>
+                      <img src="calender.jpeg" alt='calender' class="image-cal"/>
                     </div>
                     <div class="col-md-6 col-lg-6">
                       <h1 class="m-4">Notifications</h1>
