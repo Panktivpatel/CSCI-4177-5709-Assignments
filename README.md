@@ -2,7 +2,7 @@
 <ul>
   <li>Date Created; 30th May 2023</li>
   <li>Last Date modified: 30th May 2023</li>
-  <li>Git URL: </li>
+  <li>Git URL: https://github.com/Panktivpatel/CSCI-4177-5709-Assignments/tree/main/assignment-one</li>
   <li>Netlify deployment Link: https://6476a2b4acbed342a1ad2480--resonant-entremet-4b5026.netlify.app/</li>
 </ul>
 
