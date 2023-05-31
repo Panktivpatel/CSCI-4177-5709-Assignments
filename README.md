@@ -8,20 +8,20 @@
 
 <h1>Features:</h1>
 <p>
- - Dashboard: An interactive dashboard displaying key information such as requesting appointments, calendar, and notifications.
- - Appointment Schedulling: Ability to schedule, reschedule, and cancel patient appointments.
- - Patient Records: Access to patient profiles, medical records, and treatment history.
- - Notifications: Receive real-time notifications for appointment updates, reminders, and other important events.
- - Community: Have conversation with staff members related to anything.
- - Schedule: Access to upcoming events, day-off requests or any appointments.
- - Remote Consultation: Talk to patients remotely and help them out.
+ - Dashboard: An interactive dashboard displaying key information such as requesting appointments, calendar, and notifications.<br/>
+ - Appointment Schedulling: Ability to schedule, reschedule, and cancel patient appointments.<br/>
+ - Patient Records: Access to patient profiles, medical records, and treatment history.<br/>
+ - Notifications: Receive real-time notifications for appointment updates, reminders, and other important events.<br/>
+ - Community: Have conversation with staff members related to anything.<br/>
+ - Schedule: Access to upcoming events, day-off requests or any appointments.<br/>
+ - Remote Consultation: Talk to patients remotely and help them out.<br/>
 </p>
 
 <h1>Requirements</h1>
 <p>
-  - Web Browser: Ensure you have a modern web browser such as Chrome, Firefox, or Safari.
-  - Internet Connection: A stable internet connection is necessary to access the web page and interact with the backend services.
-  - Node.js: Install Node.js, a JavaScript runtime, to run and build the React application.
+  - Web Browser: Ensure you have a modern web browser such as Chrome, Firefox, or Safari.<br/>
+  - Internet Connection: A stable internet connection is necessary to access the web page and interact with the backend services.<br/>
+  - Node.js: Install Node.js, a JavaScript runtime, to run and build the React application.<br/>
 </p>
 
 <h1>Installation</h1>
